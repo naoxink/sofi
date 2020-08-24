@@ -1,4 +1,4 @@
-# sophi
+# sofi
 
 ## Project setup
 ```
