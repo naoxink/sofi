@@ -171,7 +171,6 @@ export default {
   margin-top: 20px;
 }
 .lists {
-  width: 400px;
   margin: 10px;
 }
 ul {
